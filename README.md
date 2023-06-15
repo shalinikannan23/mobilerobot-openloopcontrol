@@ -76,7 +76,7 @@ if _name_ == '_main_':
     ep_robot.close()
 
 ```
-![image](https://github.com/shalinikannan23/mobilerobot-openloopcontrol/assets/118656529/c9b338f7-7cb8-473f-a3df-7f8750a29a87)
+
 ## led_blink.py
 ```
 from robomaster import robot
@@ -111,6 +111,7 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
+![Uploading image.png…]()
 
 
 
@@ -120,12 +121,6 @@ if _name_ == '_main_':
 
 Upload your video in Youtube and paste your video-id here
 Youtube Link : (https://youtu.be/AfWMcAk0HtY)
-
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
