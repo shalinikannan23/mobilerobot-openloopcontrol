@@ -75,8 +75,9 @@ if _name_ == '_main_':
 ```
 ## MobileRobot Movement Image:
 
-![245827953-58d3bb38-c4ef-44e1-b03e-f55596acb643](https://github.com/shalinikannan23/mobilerobot-openloopcontrol/assets/118656529/60db4cde-169e-4031-bc19-d51d5fdc61f0)
+![robomaster](https://github.com/shalinikannan23/mobilerobot-openloopcontrol/assets/118656529/283aeaa4-da84-447c-a6e2-42a08ad04a4f)
 
+![245717585-2ce8adfd-8499-426a-950a-eeaf6937a5ea](https://github.com/shalinikannan23/mobilerobot-openloopcontrol/assets/118656529/82bc3c29-b9e6-4de6-8bf8-6680e15c1e3a)
 
 MobileRobot Movement Video:
 
